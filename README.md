@@ -1,7 +1,31 @@
-- 👋 Hi, I’m @MUHAMMEDFAHIM-2
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning Btech-IT @ COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY...
-<!---
-MUHAMMEDFAHIM-2/MUHAMMEDFAHIM-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi 👋, I'm Muhammed Fahim
+
+🎓 MSc Data Science student @ University of Salford (UK) | BTech in Information Technology (CUSAT, India)  
+💡 Passionate about Data Science, Machine Learning, and AI-driven problem solving  
+🌍 Currently based in the UK  
+
+---
+
+### 🔭 What I'm Working On
+- Building data-driven projects (Retail Sales Prediction, Recommender Systems)  
+- Expanding my portfolio in **Data Science & ML**  
+- Exploring PySpark, SQL, and real-world predictive analytics  
+
+---
+
+### 💼 Experience
+- **Intern @ Tata Elxsi** – Worked on automation for self-driving car simulations (Jan–Jun 2024)  
+- **Care Assistant @ Care At Home Group, UK** – Supporting individuals with empathy and professionalism (Jan 2025 – Present)  
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages & Libraries**: Python, SQL, Pandas, NumPy, Matplotlib, PySpark  
+- **ML & Analytics**: Scikit-learn, Recommender Systems, Predictive Analytics  
+- **Other**: Git/GitHub, Data Visualization 
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: linkedin.com/in/muhammed-fahim-03209b1bb  
+- Email: fahim2122002@gmail.com
