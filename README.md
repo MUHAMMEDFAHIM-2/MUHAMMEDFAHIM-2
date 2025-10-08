@@ -11,7 +11,7 @@
 - Expanding my portfolio in **Data Science & ML**  
 - Exploring PySpark, SQL, and real-world predictive analytics  
 
----
+---  
 
 ### 💼 Experience
 - **Intern @ Tata Elxsi** – Worked on automation for self-driving car simulations (Jan–Jun 2024)  
