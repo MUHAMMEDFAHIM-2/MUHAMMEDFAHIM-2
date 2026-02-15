@@ -14,7 +14,7 @@
 ---  
 
 ### 💼 Experience
-- **Intern @ Tata Elxsi** – Worked on automation for self-driving car simulations (Jan–Jun 2024)  
+- **Intern @ Tata Elxsi, India** – Worked on automation for self-driving car simulations (Jan–Jun 2024)  
 - **Care Assistant @ Care At Home Group, UK** – Supporting individuals with empathy and professionalism (Jan 2025 – Dec 2025)  
 - **Care Assistant @ Home Instead, UK** – Supporting individuals with empathy and professionalism (Jan 2025 – Present)  
 
