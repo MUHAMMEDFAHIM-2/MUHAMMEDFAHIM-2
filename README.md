@@ -1,6 +1,6 @@
-# Hi 👋, I'm Muhammed Fahim
+# Hi 👋, I'm Muhammed Fahim 
 
-🎓 MSc Data Science student @ University of Salford (UK) | BTech in Information Technology (CUSAT, India)  
+🎓 MSc in Data Science (University of Salford, UK) | BTech in Information Technology (CUSAT, India)  
 💡 Passionate about Data Science, Machine Learning, and AI-driven problem solving  
 🌍 Currently based in the UK  
 
